@@ -1,0 +1,15 @@
+@-moz-document domain("fandom.com") {
+.page__right-rail, #WikiaBar, #mixed-content-footer {
+    display: none !important;
+}
+
+.resizable-container {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.page-side-tools__wrapper {
+    transform: none !important;
+    -webkit-transform: none !important;
+}
+}

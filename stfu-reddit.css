@@ -1,0 +1,5 @@
+@-moz-document domain("old.reddit.com") {
+.listingsignupbar, .premium-banner-outer, .read-next, .seo-comments, .seo-comments-recommendations {
+    display: none !important;
+}
+}
